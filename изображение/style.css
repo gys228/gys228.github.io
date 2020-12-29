@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	font-family: 'Balsamiq Sans', cursive;
+	background: #ADF5D1;
+	color: #F56723;
+}
+img {
+	width: 600px; /* задаёт длину елемента*/
+	margin-left: 15%;
+}
+p {
+	font-size: 21px; /*размер шрифта*/
+	width: 46%;
+	margin-left: 15%;
+	line-height: 26px;
+}
+h1 {
+	margin-left: 25%;
+	color: #1B62F4;
+}
+a{
+	margin-left: 15%;
+	text-decoration: none;
+	font-size: 21px;
+	transition: all 0.5s ease;
+}
+a:hover{   /* псевдoкласс меняющий свойста тега при наведении на него мышкой*/
+	color:#0096FF;
+	margin-left: calc(15% + 10px);
+}
+h2 {
+	margin-left: 25%;
+	color: #1B62F4;
+}
+.head2 {
+	margin-left: 30%;
+}
+.text3 {
+	width: 42%;
+}
+.text6 {
+	width: 44%;
+}
+span {
+	color: #1B62F4;
+}
